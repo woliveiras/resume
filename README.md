@@ -6,6 +6,8 @@
 
 **Blog:** [woliveiras.com.br](http://woliveiras.com.br)
 
+**[Linkedin](https://linkedin.com/in/woliveira542)**
+
 **E-mail:** w.oliveira542@gmail.com
 
 ##Sobre mim
@@ -16,17 +18,17 @@ Comecei fazendo Freelas com alguns amigos escrevendo HTML/CSS e pegava um pouqui
 
 Em 2015 tive a oportunidade de trabalhar mais com JavaScript e conheci o Nodejs.
 
-Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. Em meu tempo livre gosto de praticar esportes, estudar e ensinar quem tem vontade de aprender!
+Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. Em meu tempo livre gosto de praticar esportes, praticar programação e ensinar quem tem vontade de aprender!
 
 ##Habilidades
 
-* HTML - Básico de [Jade](http://jade-lang.com/)
-* CSS - [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
-* Javascript - Básico de [Nodejs](https://nodejs.org/en/) e [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/)
+* HTML/CSS e JavaScript
+* Básico de [Jade](http://jade-lang.com/)
+* [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
+* Básico de [Nodejs](https://nodejs.org/en/) e [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/)
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/)
 * Ferramentas Front End - [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
-* [Git](https://git-scm.com/)
-* [GitLab](https://about.gitlab.com/) e [Github](https://github.com)
+* [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/) e [Github](https://github.com)
 * [Linux](http://www.linuxfoundation.org/what-is-linux) (<3) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia-a-dia.
 * Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/) (<3), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
@@ -46,7 +48,8 @@ Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e 
 
 ##Formação
 
-**Sistemas para Internet na Unisul** - 2015 (Trancado)
+**Sistemas para Internet na Unisul** - 2015 (Trancado).
+
 Pretendo iniciar Analise e Desenvolvimento de Sistemas.
 
 ##Cursos
@@ -57,4 +60,4 @@ Pretendo iniciar Analise e Desenvolvimento de Sistemas.
 ##Extras
 
 * Criador do Grupo [Front ABC](https://github.com/front-abc) - www.meetup.com/front-abc/
-* Responsável pelo FEMUG-ABC - abc.femug.com
+* Responsável pelo [FEMUG-ABC](http://abc.femug.com)
