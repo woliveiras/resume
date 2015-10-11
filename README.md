@@ -29,12 +29,11 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 ##Habilidades
 
 * HTML/CSS e JavaScript
-* Básico de [Jade](http://jade-lang.com/)
 * [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
-* Básico de [Nodejs](https://nodejs.org/en/) e [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/)
+* Básico de [Nodejs](https://nodejs.org/en/), [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/) e [Jade](http://jade-lang.com/)
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/)
 * Ferramentas Front End - [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
-* [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/) e [Github](https://github.com)
+* [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/), [Github](https://github.com) e [Bitbucket](https://bitbucket.org/)
 * [Linux](http://www.linuxfoundation.org/what-is-linux) (<3) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia-a-dia.
 * Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/) (<3), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
