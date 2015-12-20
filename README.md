@@ -24,6 +24,7 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 - [Playground - Onde eu me divirto aprendendo algumas coisas](https://github.com/woliveiras/playground)
 - [Pastel - Meu Grunt Boilerplate (que logo logo vai ter uma branch com Gulp)](https://github.com/woliveiras/pastel)
+- [Kibe - Meu Gulp Boilerplate (que deveria ser uma branch do Pastel, mas decidi criar outro do zero ;D)](https://github.com/woliveiras/kibe)
 - [Configs - Minhas configurções do Sublime, mas esse é só para caso queira conhecer algum plugin legal... ;)](https://github.com/woliveiras/configs)
 
 ##Habilidades
