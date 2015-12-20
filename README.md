@@ -41,27 +41,16 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 ##Experiência Profissional
 
-**Desenvolvedor Front End** - CVC Viagens - 03/2015 - Atual
+**Desenvolvedor Front End** - CVC Viagens - 03/2015 - 12/2015
 
 > Responsável pelo desenvolvimento e correção de Bugs de Interfaces Web em HTML, CSS, JavaScript e Angularjs.
 Utilização do TFS e Git para versionamento.
 Pouco contato com C# e SQL Server.
 
-**Desenvolvedor Front End** - Grupo Reside - 07/2014 até 03/2015
+**Desenvolvedor Front End** - Grupo Reside - 07/2014 - 03/2015
 
 > Responsável direto pela área de Front End da agência. Desenvolvimento de sites institucionais. **Principais conquistas:** Implementei o Grunt, Git, Less, Bower e o Twitter Bootstrap no fluxo de trabalho da empresa, aumentando a produtividade e mantendo o controle de versão.
 Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e um projeto de estudos sobre tecnologias emergentes na área de Front End: https://github.com/woliveiras/pastel
-
-##Formação
-
-**Sistemas para Internet na Unisul** - 2015 (Trancado).
-
-Pretendo iniciar Analise e Desenvolvimento de Sistemas.
-
-##Cursos
-
-* [Trilha Front End - **Alura by Caelum**](https://www.alura.com.br/cursos-online-front-end)
-
 
 ##Extras
 
