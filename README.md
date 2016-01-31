@@ -12,9 +12,9 @@
 
 ##Sobre mim
 
-Desde 2011, quando trabalhei como Suporte em uma empresa de ERP (Com PHP e MySQL), eu já estudava programação, mas minha carreira como Desenvolvedor começou em 2014 quando decidi partir de vez de infraestrutura (área em que eu atuava desde os 17) para o mundo do Desenvolvimento.
+Desde 2011, quando trabalhei como Suporte em uma empresa de ERP (Com PHP e MySQL), eu comecei a estudar desenvolvimento de software, mas minha carreira como Desenvolvedor começou em 2014 quando decidi partir de vez de infraestrutura (área em que eu atuava desde os 17) para o mundo do Desenvolvimento.
 
-Comecei fazendo Freelas com alguns amigos escrevendo HTML/CSS e pegava um pouquinho de Python/JavaScript (<3), mais pra frente entrei em uma agência Web onde desenvolvia sites institucionais. Lá eu conheci o mundo Front End e comecei a entender o que é Desenvolvimento Client Side. Tive contato com Frameworks Front End como AngularJS, Twitter Bootstrap e ferramentas como Gruntjs, Bower e pré processadores.
+Comecei fazendo Freelas com alguns amigos escrevendo HTML/CSS e pegava um pouquinho de Python (:heart:)/JavaScript, mais pra frente entrei em uma agência Web onde desenvolvia sites institucionais. Lá eu conheci o mundo Front End e comecei a entender o que é Desenvolvimento Client Side. Tive contato com Frameworks Front End como AngularJS, Twitter Bootstrap e ferramentas como Gruntjs, Bower e pré processadores.
 
 Em 2015 tive a oportunidade de trabalhar mais com JavaScript e conheci o Nodejs.
 
@@ -22,10 +22,10 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 ##Repositórios interessantes para conhecer mais sobre mim:
 
-- [Playground - Onde eu me divirto aprendendo algumas coisas](https://github.com/woliveiras/playground)
 - [Pastel - Meu Grunt Boilerplate (que logo logo vai ter uma branch com Gulp)](https://github.com/woliveiras/pastel)
-- [Kibe - Meu Gulp Boilerplate (que deveria ser uma branch do Pastel, mas decidi criar outro do zero ;D)](https://github.com/woliveiras/kibe)
+- [Kibe - Um Yeoman Generator com tudo o que gosto no Workflow Front End)](https://www.npmjs.com/package/generator-kibe)
 - [Configs - Minhas configurções do Sublime, mas esse é só para caso queira conhecer algum plugin legal... ;)](https://github.com/woliveiras/configs)
+- [Vim para Noobs - Um ebook sobre Vim para iniciantes](http://woliveiras.com.br/vim-para-noobs/livro/)
 
 ##Habilidades
 
@@ -35,8 +35,8 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/)
 * Ferramentas Front End - [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
 * [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/), [Github](https://github.com) e [Bitbucket](https://bitbucket.org/)
-* [Linux](http://www.linuxfoundation.org/what-is-linux) (<3) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia-a-dia.
-* Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/) (<3), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
+* [Linux](http://www.linuxfoundation.org/what-is-linux) (:heart:) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia-a-dia.
+* Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
 
 ##Experiência Profissional
@@ -54,5 +54,4 @@ Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e 
 
 ##Extras
 
-* Criador do Grupo [Front ABC](https://github.com/front-abc) - www.meetup.com/front-abc/
 * Responsável pelo [FEMUG-ABC](http://abc.femug.com)
