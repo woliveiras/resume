@@ -1,4 +1,4 @@
-Faça uma edição no **[README.md](./README.md)**, na sessão `Depoimentos` seguindo o seguinte template:
+Faça uma edição no **[README.md](./README.md#depoimentos)**, na sessão `Depoimentos` seguindo o seguinte template:
 
 **Nome**, **Contato (ex.: [@woliveiras](http://github.com/woliveiras))**
 
