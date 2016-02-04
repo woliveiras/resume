@@ -59,8 +59,8 @@ Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e 
 
 * Responsável pelo [FEMUG-ABC](http://abc.femug.com)
 
-### Depoimentos
+### Recomendações
 
-Área para depoimentos profissionais.
+Área para recomendações de profissionais.
 
 [Template para postagem](./testimonies.md)
