@@ -41,13 +41,16 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 ##Experiência Profissional
 
-**Desenvolvedor Front End** - CVC Viagens - 03/2015 - 12/2015
+### Desenvolvedor Front End - VivaReal - 12/2015
+
+> Desenvolvedor Front End no VivaDecora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End.
+
+### Desenvolvedor Front End - CVC Viagens - 03/2015 - 12/2015
 
 > Responsável pelo desenvolvimento e correção de Bugs de Interfaces Web em HTML, CSS, JavaScript e Angularjs.
 Utilização do TFS e Git para versionamento.
-Pouco contato com C# e SQL Server.
 
-**Desenvolvedor Front End** - Grupo Reside - 07/2014 - 03/2015
+### Desenvolvedor Front End - Grupo Reside - 07/2014 - 03/2015
 
 > Responsável direto pela área de Front End da agência. Desenvolvimento de sites institucionais. **Principais conquistas:** Implementei o Grunt, Git, Less, Bower e o Twitter Bootstrap no fluxo de trabalho da empresa, aumentando a produtividade e mantendo o controle de versão.
 Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e um projeto de estudos sobre tecnologias emergentes na área de Front End: https://github.com/woliveiras/pastel
@@ -55,3 +58,9 @@ Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e 
 ##Extras
 
 * Responsável pelo [FEMUG-ABC](http://abc.femug.com)
+
+### Depoimentos
+
+Área para depoimentos profissionais.
+
+[Template para postagem](./testimonies.md)
