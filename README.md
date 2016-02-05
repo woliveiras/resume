@@ -54,13 +54,3 @@ Utilização do TFS e Git para versionamento.
 
 > Responsável direto pela área de Front End da agência. Desenvolvimento de sites institucionais. **Principais conquistas:** Implementei o Grunt, Git, Less, Bower e o Twitter Bootstrap no fluxo de trabalho da empresa, aumentando a produtividade e mantendo o controle de versão.
 Foi lá que eu criei o “Pastel”, meu Boilerplate para desenvolvimento Web e um projeto de estudos sobre tecnologias emergentes na área de Front End: https://github.com/woliveiras/pastel
-
-##Extras
-
-* Responsável pelo [FEMUG-ABC](http://abc.femug.com)
-
-### Recomendações
-
-Área para recomendações de profissionais.
-
-[Template para postagem](./testimonies.md)
