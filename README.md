@@ -2,8 +2,6 @@
 
 **Localização:** São Bernardo do Campo -SP. Brasil.
 
-**Telefone:** (11) 96669-8215
-
 **Blog:** [woliveiras.com.br](http://woliveiras.com.br)
 
 **[Linkedin](https://linkedin.com/in/woliveira542)**
