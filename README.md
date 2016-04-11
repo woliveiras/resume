@@ -18,7 +18,7 @@ Em 2015 tive a oportunidade de trabalhar mais com JavaScript e conheci o Nodejs.
 
 Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. Em meu tempo livre gosto de praticar esportes, praticar programação e ensinar quem tem vontade de aprender!
 
-##Repositórios interessantes para conhecer mais sobre mim:
+## Alguns projetos legais:
 
 - [Pastel - Meu Grunt Boilerplate (que logo logo vai ter uma branch com Gulp)](https://github.com/woliveiras/pastel)
 - [Kibe - Um Yeoman Generator com tudo o que gosto no Workflow Front End (uma evolução do Pastel)](https://www.npmjs.com/package/generator-kibe)
