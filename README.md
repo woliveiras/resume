@@ -21,9 +21,10 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 ##Repositórios interessantes para conhecer mais sobre mim:
 
 - [Pastel - Meu Grunt Boilerplate (que logo logo vai ter uma branch com Gulp)](https://github.com/woliveiras/pastel)
-- [Kibe - Um Yeoman Generator com tudo o que gosto no Workflow Front End)](https://www.npmjs.com/package/generator-kibe)
-- [Configs - Minhas configurções do Sublime, mas esse é só para caso queira conhecer algum plugin legal... ;)](https://github.com/woliveiras/configs)
+- [Kibe - Um Yeoman Generator com tudo o que gosto no Workflow Front End (uma evolução do Pastel)](https://www.npmjs.com/package/generator-kibe)
+- [Dotfiles - Meus arquivos de configuração do SO e ambiente de trabalho, esse é só para caso queira conhecer algum plugin legal... ;)](https://github.com/woliveiras/configs)
 - [Vim para Noobs - Um ebook sobre Vim para iniciantes](http://woliveiras.com.br/vim-para-noobs/livro/)
+- [Modularize your gulpfile!](https://github.com/woliveiras/modularize-your-gulpfile)
 
 ##Habilidades
 
