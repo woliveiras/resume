@@ -38,6 +38,10 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 * Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
 
+## Palestras
+
+* [JavaScript e o perfil do desenvolvedor front end das atualidades mais atuais](http://www.slideshare.net/williamoliveira542/javascript-e-o-perfil-do-desenvolvedor-front-end-das-atualidades-mais-atuais-60080893)
+
 ##Experiência Profissional
 
 ### Desenvolvedor Front End - VivaReal - 12/2015
