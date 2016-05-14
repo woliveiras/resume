@@ -1,4 +1,4 @@
-#William de Oliveira Souza
+# William de Oliveira Souza
 
 **Localização:** São Bernardo do Campo -SP. Brasil.
 
@@ -8,7 +8,7 @@
 
 **E-mail:** w.oliveira542@gmail.com
 
-##Sobre mim
+## Sobre mim
 
 Desde 2011, quando trabalhei como Suporte em uma empresa de ERP (Com PHP e MySQL), eu comecei a estudar desenvolvimento de software, mas minha carreira como Desenvolvedor começou em 2014 quando decidi partir de vez de infraestrutura (área em que eu atuava desde os 17) para o mundo do Desenvolvimento.
 
@@ -26,7 +26,7 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 - [Vim para Noobs - Um ebook sobre Vim para iniciantes](http://woliveiras.com.br/vim-para-noobs/livro/)
 - [Modularize your gulpfile!](https://github.com/woliveiras/modularize-your-gulpfile)
 
-##Habilidades
+## Habilidades
 
 * HTML/CSS e JavaScript
 * [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
@@ -42,7 +42,7 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 * [JavaScript e o perfil do desenvolvedor front end das atualidades mais atuais](http://www.slideshare.net/williamoliveira542/javascript-e-o-perfil-do-desenvolvedor-front-end-das-atualidades-mais-atuais-60080893)
 
-##Experiência Profissional
+## Experiência Profissional
 
 ### Desenvolvedor Front End - VivaReal - 12/2015
 
