@@ -47,7 +47,7 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 ### Desenvolvedor Front End - VivaReal - 12/2015
 
-> Desenvolvedor Front End no VivaDecora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End.
+> Desenvolvedor Front End no Viva Decora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End.
 
 ### Desenvolvedor Front End - CVC Viagens - 03/2015 - 12/2015
 
