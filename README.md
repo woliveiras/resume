@@ -2,7 +2,7 @@
 
 **Localização:** São Bernardo do Campo -SP. Brasil.
 
-**Blog:** [woliveiras.com.br](http://woliveiras.com.br)
+**Blog:** [woliveiras.com.br](https://woliveiras.com.br)
 
 **[Linkedin](https://linkedin.com/in/woliveira542)**
 
@@ -10,13 +10,11 @@
 
 ## Sobre mim
 
-Desde 2011, quando trabalhei como Suporte em uma empresa de ERP (Com PHP e MySQL), eu comecei a estudar desenvolvimento de software, mas minha carreira como Desenvolvedor começou em 2014 quando decidi partir de vez de infraestrutura (área em que eu atuava desde os 17) para o mundo do Desenvolvimento.
+Desenvolvedor de Software Front End focado em boas práticas de desenvolvimento para manter a manutenibilidade de código, escalabilidade do software e boas práticas de programação.
 
-Comecei fazendo Freelas com alguns amigos escrevendo HTML/CSS e pegava um pouquinho de Python (:heart:)/JavaScript, mais pra frente entrei em uma agência Web onde desenvolvia sites institucionais. Lá eu conheci o mundo Front End e comecei a entender o que é Desenvolvimento Client Side. Tive contato com Frameworks Front End como AngularJS, Twitter Bootstrap e ferramentas como Gruntjs, Bower e pré processadores.
+Conhecimento em JavaScript e seu ecosistema (no navegador com AngularJS, jQuery e outras bilbiotecas e frameworks, automação com ferramentas como Gulp, Grunt, NPM e o workflow com as ferramentas que rodam em NodeJS), HTML (e template engines como Jade (Pug) e EJS), CSS (Sass, Stylus), performance no navegador (fluxo de renderização e paint do DOM, boas práticas, PageSpeed), SEO, dentre outras tecnologias.
 
-Em 2015 tive a oportunidade de trabalhar mais com JavaScript e conheci o Nodejs.
-
-Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. Em meu tempo livre gosto de praticar esportes, praticar programação e ensinar quem tem vontade de aprender!
+Adoro desenvolver para resolver problemas, automatizar processos e ajudar pessoas.
 
 ## Alguns projetos legais:
 
@@ -31,11 +29,11 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 
 * HTML/CSS e JavaScript
 * [Stylus](https://learnboost.github.io/stylus/), [Sass](http://sass-lang.com/), [Less](http://lesscss.org/), [Bootstrap](http://getbootstrap.com/)
-* Básico de [Nodejs](https://nodejs.org/en/), [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/) e [Jade](http://jade-lang.com/)
+* [Nodejs](https://nodejs.org/en/), [Angularjs](https://angularjs.org/), [EJS](http://ejs.co/) e [Jade](http://jade-lang.com/)
 * [Responsive Design](http://arquiteturadeinformacao.com/mobile/o-que-e-responsive-web-design/)
 * Ferramentas Front End - [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/), [Yeoman](http://yeoman.io/)
 * [Git](https://git-scm.com/) - [GitLab](https://about.gitlab.com/), [Github](https://github.com) e [Bitbucket](https://bitbucket.org/)
-* [Linux](http://www.linuxfoundation.org/what-is-linux) (:heart:) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia-a-dia.
+* [Linux](http://www.linuxfoundation.org/what-is-linux) (:heart:) - Já utilizei [Debian](https://www.debian.org/index.pt.html), porém gosto do [Ubuntu](http://http://ubuntu.com/) para o dia a dia.
 * Conhecimento básico de [PHP](https://secure.php.net/), [Python](http://wiki.python.org.br/), [MySQL](https://www.mysql.com/), [MongoDB](https://www.mongodb.org/)
 * [Scrum](https://www.scrum.org/) e [Kanban](http://kanbanblog.com/explained/) - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/)
 
@@ -44,12 +42,13 @@ Adoro desenvolver para resolver problemas, automatizar coisas e ajudar pessoas. 
 **Palestras**
 
 * [JavaScript e o perfil do desenvolvedor front end das atualidades mais atuais](http://www.slideshare.net/williamoliveira542/javascript-e-o-perfil-do-desenvolvedor-front-end-das-atualidades-mais-atuais-60080893)
+* [Você não precisa de uma sopa de letrinhas para criar web apps](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
 
 ## Experiência Profissional
 
 ### Desenvolvedor Front End - VivaReal - 12/2015
 
-> Desenvolvedor Front End no Viva Decora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End.
+> Desenvolvedor Front End no Viva Decora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, BEM, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End e responsabilidade com SEO, PageSpeed.
 
 ### Desenvolvedor Front End - CVC Viagens - 03/2015 - 12/2015
 
