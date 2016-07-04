@@ -24,6 +24,7 @@ Adoro desenvolver para resolver problemas, automatizar processos e ajudar pessoa
 - [Vim para Noobs - Um ebook sobre Vim para iniciantes](http://woliveiras.com.br/vimparanoobs/)
 - [Modularize your gulpfile!](https://github.com/woliveiras/modularize-your-gulpfile)
 - [Carreira Front End - Um guia para quem deseja se tornar um Desenvolvedor Front End](https://github.com/woliveiras/front-end-career)
+- [Metamorfose - meu workflow para Desenvolvimento de Software](https://github.com/woliveiras/metamorfose/)
 
 ## Habilidades
 
