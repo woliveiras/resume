@@ -16,6 +16,8 @@ Conhecimento em JavaScript e seu ecosistema (no navegador com AngularJS, jQuery 
 
 Adoro desenvolver para resolver problemas, automatizar processos e ajudar pessoas.
 
+[Mais sobre mim](https://woliveiras.com.br/about/)
+
 ## Alguns projetos legais:
 
 - [Pastel - Meu Grunt Boilerplate (que logo logo vai ter uma branch com Gulp)](https://github.com/woliveiras/pastel)
