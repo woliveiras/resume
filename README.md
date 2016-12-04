@@ -44,8 +44,9 @@ Adoro desenvolver para resolver problemas, automatizar processos e ajudar pessoa
 
 **Palestras**
 
-* [JavaScript e o perfil do desenvolvedor front end das atualidades mais atuais](http://www.slideshare.net/williamoliveira542/javascript-e-o-perfil-do-desenvolvedor-front-end-das-atualidades-mais-atuais-60080893)
-* [Você não precisa de uma sopa de letrinhas para criar web apps](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
+* [JavaScript e o perfil do desenvolvedor front end das atualidades mais atuais - No FEMUG-ABC](http://www.slideshare.net/williamoliveira542/javascript-e-o-perfil-do-desenvolvedor-front-end-das-atualidades-mais-atuais-60080893)
+* [Você não precisa de uma sopa de letrinhas para criar web apps - No GDG-ABC](http://www.slideshare.net/williamoliveira542/voc-no-precisa-de-uma-sopa-de-letrinhas-para-criar-web-apps)
+* [Blogando feito um Hackudo usando Jekyll - No CRUD-ABC](http://crudabc.org/crud-abc-1-conteudo/)
 
 ## Experiência Profissional
 
