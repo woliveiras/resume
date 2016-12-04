@@ -1,6 +1,4 @@
-# William de Oliveira Souza
-
-**Localização:** São Bernardo do Campo -SP. Brasil.
+# William de Oliveira Souza - Desenvolvedor de Software
 
 **Blog:** [woliveiras.com.br](https://woliveiras.com.br)
 
@@ -10,7 +8,7 @@
 
 ## Sobre mim
 
-Desenvolvedor de Software Front End focado em boas práticas de desenvolvimento para manter a manutenibilidade de código, escalabilidade do software e boas práticas de programação.
+Desenvolvedor de Software atuando no Front End focado em boas práticas de desenvolvimento para manter a manutenibilidade de código, escalabilidade do software e boas práticas de programação.
 
 Conhecimento em JavaScript e seu ecosistema (no navegador com AngularJS, jQuery e outras bilbiotecas e frameworks, automação com ferramentas como Gulp, Grunt, NPM e o workflow com as ferramentas que rodam em NodeJS), HTML (e template engines como Jade (Pug) e EJS), CSS (Sass, Stylus), performance no navegador (fluxo de renderização e paint do DOM, boas práticas, PageSpeed), SEO, dentre outras tecnologias.
 
