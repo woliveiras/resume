@@ -1,14 +1,14 @@
-# William de Oliveira Souza - Desenvolvedor de Software
+# William Oliveira
 
 **Blog:** [woliveiras.com.br](https://woliveiras.com.br)
 
-**[Linkedin](https://linkedin.com/in/woliveira542)**
+**[Linkedin](https://www.linkedin.com/in/william-oliveira)**
 
 **E-mail:** w.oliveira542@gmail.com
 
 ## Sobre mim
 
-Desenvolvedor de Software atuando no Front End focado em boas práticas de desenvolvimento para manter a manutenibilidade de código, escalabilidade do software e boas práticas de programação.
+Desenvolvedor de Software atuando em Front End focado em boas práticas de desenvolvimento para manter a manutenibilidade de código, escalabilidade do software e boas práticas de programação.
 
 Conhecimento em JavaScript e seu ecosistema (no navegador com AngularJS, jQuery e outras bilbiotecas e frameworks, automação com ferramentas como Gulp, Grunt, NPM e o workflow com as ferramentas que rodam em NodeJS), HTML (e template engines como Jade (Pug) e EJS), CSS (Sass, Stylus), performance no navegador (fluxo de renderização e paint do DOM, boas práticas, PageSpeed), SEO, dentre outras tecnologias.
 
@@ -48,7 +48,7 @@ Adoro desenvolver para resolver problemas, automatizar processos e ajudar pessoa
 
 ## Experiência Profissional
 
-### Desenvolvedor Front End - VivaReal - 12/2015
+### Desenvolvedor Front End - VivaReal (Viva Decora) - 12/2015
 
 > Desenvolvedor Front End no Viva Decora. Foco em boas práticas de desenvolvimento. Utilização do Gulp e Grunt para automação de tarefas, Bower, SMACSS, BEM, Schema.org, Angularjs, dentre outras tecnologias e práticas da arquitetura de Front End e responsabilidade com SEO, PageSpeed.
 
